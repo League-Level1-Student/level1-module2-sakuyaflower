@@ -18,6 +18,8 @@ public class SeaCreature {
 		this.name = name;
 	}
 
+	
+
 	public String getName() {
 		return "My name is " + name;
 	}
